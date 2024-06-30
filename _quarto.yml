@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "Eva Loaeza Albino"          # Your name
+  description: "I am an economist."   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -15,8 +15,8 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
+      - text: "Research"
+        href: research/index.qmd
       - text: "Photography"
         href: photography/index.qmd
       - text: "CV"
@@ -25,14 +25,14 @@ website:
     # your social media handles
     right:
       - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+        href: https://www.evaloaeza.com/
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+        href: https://twitter.com/evadavinia
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: https://www.linkedin.com/in/evaloaezaalbino/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:mail.eva.loaeza.albino@gmail.com"  
   
   
 
@@ -42,11 +42,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2024 Eva Loaeza Albino CC BY-SA 4.0</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+      <span class="faux-block"><a href="https://www.evaloaeza.com/">My website!</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/evaloaeza/">View source on GitHub</a></span>
 
 project:
   type: website

@@ -1,5 +1,4 @@
----
-title: Projects
+title: Research
 ---
 
 ## The Languages of Middle-earth
