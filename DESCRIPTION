@@ -1,0 +1,6 @@
+Package: quarto-site
+Title: Quarto Site
+Version: 0.1.0
+Authors@R: person("Eva", "Loaeza", email = "your@email.com", role = c("aut", "cre"))
+Description: A personal website built with Quarto.
+License: MIT
