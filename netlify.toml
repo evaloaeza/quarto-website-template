@@ -3,4 +3,13 @@
   command = "quarto render"
 
 [build.environment]
+  NODE_VERSION = "18"
+
+[build.processing]
+  skip_processing = true
+
+[template.environment]
   QUARTO_VERSION = "1.4.550"
+
+[[plugins]]
+  package = "netlify-plugin-quarto"
