@@ -4,7 +4,7 @@
     "href": "cv/index.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
   },
   {
     "objectID": "photography/index.html",
@@ -16,23 +16,23 @@
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Eva Loaeza Albino",
+    "title": "Research",
     "section": "",
-    "text": "title: Research"
+    "text": "Working Paper\nI study the preferences of consumers over different retail channels (drug stores, mass merchandiser, or grocery stores) for purchasing over-the-counter emergency contraceptives (EC). Using monthly EC sales in Texas from 2017 to 2019, I estimate consumer preferences using a BLP discrete choice model. My results show that consumers are sensitive to prices, and that they exhibit preferences for specific retail channels but not for branded vs generic products. To address recent policy debates, I conduct counterfactual simulations banning the sale of EC from grocery or mass merchandiser stores. I find that this would result in 5-8% increase in the number of consumers who do not buy EC."
   },
   {
-    "objectID": "research/index.html#the-languages-of-middle-earth",
-    "href": "research/index.html#the-languages-of-middle-earth",
-    "title": "Eva Loaeza Albino",
-    "section": "The Languages of Middle-earth",
-    "text": "The Languages of Middle-earth\n\narXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "objectID": "research/index.html#consumers-preferences-over-retail-channels-evidence-from-emergency-contraceptives",
+    "href": "research/index.html#consumers-preferences-over-retail-channels-evidence-from-emergency-contraceptives",
+    "title": "Research",
+    "section": "",
+    "text": "Working Paper\nI study the preferences of consumers over different retail channels (drug stores, mass merchandiser, or grocery stores) for purchasing over-the-counter emergency contraceptives (EC). Using monthly EC sales in Texas from 2017 to 2019, I estimate consumer preferences using a BLP discrete choice model. My results show that consumers are sensitive to prices, and that they exhibit preferences for specific retail channels but not for branded vs generic products. To address recent policy debates, I conduct counterfactual simulations banning the sale of EC from grocery or mass merchandiser stores. I find that this would result in 5-8% increase in the number of consumers who do not buy EC."
   },
   {
-    "objectID": "research/index.html#the-history-of-the-war-of-the-ring",
-    "href": "research/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Eva Loaeza Albino",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+    "objectID": "research/index.html#externalities-of-marijuana-legalization-marijuana-use-in-non-legalizing-states",
+    "href": "research/index.html#externalities-of-marijuana-legalization-marijuana-use-in-non-legalizing-states",
+    "title": "Research",
+    "section": "Externalities of Marijuana Legalization: Marijuana Use in Non-Legalizing States",
+    "text": "Externalities of Marijuana Legalization: Marijuana Use in Non-Legalizing States\nwith Elaine Liu and Marit Hinnosaar\nPublished in SSRN\nWe study the impact of distant connections on marijuana use. Using data on Facebook friendships, we investigate whether connections to states where recreational marijuana is legalized affect marijuana use in areas where it remains illegal. We find that areas more connected to legalized states have a larger increase in marijuana use. These results indicate that even non-local connections can impact behavior. Our findings suggest that studies measuring the impact of marijuana legalization using a standard difference-in-differences approach, without accounting for the network, underestimate the direct effect on the state that legalized."
   },
   {
     "objectID": "projects/index.html",
@@ -60,6 +60,6 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n  \n\n\n\nWelcome to my website!\nI hold a PhD in Economics from the University of Houston. Previously, I worked as an antitrust economist at the Federal Economic Competition Commission (COFECE) in Mexico. I also worked as an economist at the Mexican Social Security Institute (IMSS).\nI have presented my work at the Society of Labor Economists (SOLE) Annual Conference, at the Eastern Economic Assciociation, and the Southern Economic Association Meetings.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n  \n\n\n\nWelcome to my website!\nI am Vice President of Research at the California Workers’ Compensation Institute. I use administrative claims data to conduct practical analyses that focus on issues and trends affecting California workers’ compensation system.\nI received my PhD in Economics from the University of Houston. Previously, I worked as an antitrust economist at the Federal Economic Competition Commission (COFECE) in Mexico. I also worked as an economist at the Mexican Social Security Institute (IMSS).\nI have presented my work at the Society of Labor Economists (SOLE) Annual Conference, at the Eastern Economic Association, and the Southern Economic Association Meetings.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
   }
 ]
